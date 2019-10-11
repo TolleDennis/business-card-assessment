@@ -41,14 +41,14 @@ footer p {
     display:flex;
 }
 img {
-    padding: 0em 12em 0em 10.3em;
-    margin-right:0em;
+    padding: 0em 0em 0em 0em;
+    margin:0em;
    
     
 }
 p {
-    text-align: left;
-    font-size: 20px;
+    font-size: 17px;
     color: white;
     margin-left: 1em;
+    
 }

@@ -1,0 +1,54 @@
+
+html {
+    font-size: 10px;
+    background-color:white;
+}
+
+body {
+ margin: 0em;
+ 
+}
+header {
+    margin-top: 0em;
+    padding: 0em 0.5em;
+    text-align: left;
+    background-color: red;
+    color: black;
+    font-size: 20px;
+    margin-bottom: 0em;
+    
+}
+
+footer p {
+    color: black;
+    font-size: 30px;
+    padding: 0.5em 0em 0.5em 0em;
+    margin-top: 0em;
+    margin-bottom: 0em;
+}
+.container {
+    margin: 12em 12em 12em 12em;
+    background-color: red;
+    border:2px solid;
+    border-color: black;
+    border-radius: 30px;
+    width: 50%;
+    height: 30%;
+}
+    
+.address {
+    background: rgb(184, 15, 15);
+    display:flex;
+}
+img {
+    padding: 0em 12em 0em 10.3em;
+    margin-right:0em;
+   
+    
+}
+p {
+    text-align: left;
+    font-size: 20px;
+    color: white;
+    margin-left: 1em;
+}
